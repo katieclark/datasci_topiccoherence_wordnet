@@ -1,0 +1,23 @@
+chisquared = {7: ['africa','political','GB','Journalist','cornwall','Politics','views','south','endorsements','mine'],
+              1: ['somerset','Journalist','bristol','news','foreign','rts','correspondent','journalist','presenter','based'],
+              19:['sex','white','bbcslut','hotwife','boi','bisexual','guys','slut','teambbc','pussy'],
+              10:['lincolnshire','cambridgeshire','sussex','surrey','suffolk','radio','views','Journalist','mum','newsreader'],
+              11:['yorkshire','countryfile','farming','sport','presenter','rugby','broadcaster','weather','breakfast','Sports'],
+              8: ['devon','spotlight','south','west','weather','cornwall','presenter','reporter','east','tweet'],
+              6: ['ux','https','Journalist','ex','designer','co','science','t','journalist','GB'],
+              20:['news','correspondent','Journalist','former','GB','uk','editor','journalist','Books','co'],
+              18:['ni','ulster','pro','belfast','northern','ireland','health','Journalist','co','views'],
+              22:['runner','GB','Journalist','news','journalist','breakfast','views','1','presenter','senior'],
+              0: ['pink','purple','blue','yellow','green','white','orange','brown','red'],
+              -1: ['apple','orange','pear','banana','plum','apricot','mango','grape','pineapple']}
+mutualinfo = {7: ['GB','Journalist','views','political','US','Politics','africa','mine','radio','journalist'],
+              1: ['Journalist','news','journalist','views','correspondent','rts','somerset','foreign','own','presenter'],
+              19:['Journalist','views','GB','white','slut','wife','looking','old','bisexual''hotwife'],
+              10:['lincolnshire','Journalist','views','radio','cambridgeshire','mum','sussex','own','GB','journalist'],
+              11:['yorkshire','presenter','views','Sports','my','all','countryfile','farming','sport','own'],
+              8: ['devon','south','west','spotlight','presenter','weather','reporter','GB','Journalist','views'],
+              6: ['Journalist','turkish','GB','ux','journalist','burada','patron','ex','email','views'],
+              20:['news','Journalist','GB','correspondent','bbcbreaking','pm','former','announcer','tired','US'],
+              18:['ni','Journalist','ulster','views','belfast','GB','co','ireland','northern','journalist'],
+              22:['GB','solent','Journalist','solent\'s','derbyshire','victoria','journalist','news','victorialive','1xtra']}
+
